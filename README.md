@@ -4,5 +4,5 @@
 #### It contains the proposed Pb-NSGA-III in paper and several contrast based on NSGA-III, terms NSGAIIIxxxmain.m 
 #### This program based on platEMO, and improvement proposed based on original NSGA-III
 #### The major source data of results discussed in this paper are also provided, which are Metrics, PF result and reference points shape terms Z under difference method, respectively.
-#### Some contrast by other MOEA are carried on platEMO, if you want this code, please contact sun_chang@zju.edu.cn
-#### Any other question, pleasure contact sun_chang@zju.edu.cn or sunchang0420@163.com
+#### Some contrast by other MOEA are carried on platEMO, if you want this code, please contact sunchang.eng@gamil.com
+#### Any other question, pleasure contact sunchang.eng@gamil.com
